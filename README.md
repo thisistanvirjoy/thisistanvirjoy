@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <h1 align="center">Hi there 👋, I'm Tanvir Joy</h1>
-<h3 align="center">🤖 💻 Software Developer| Robotics Researcher | 🤖 ML Research | Data Analytics Enthusiast| </h3>
+<h3 align="center"> 💻 Software Developer|🤖 Robotics Researcher | 🤖 ML Research | Data Analytics Enthusiast| </h3>
 
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat" />
