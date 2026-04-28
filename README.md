@@ -15,7 +15,7 @@
 
 I'm a **Computer Science & Engineering** Graduate from Chittagong Independent University, passionate about pushing the boundaries of AI/ML research, particularly in low-resource languages and real-world applications.
 
-- 🔬 **Current Research**: Bangla Speech Emotion Recognition (Multimodal Fusion) & Real-time Pothole Detection
+- 🔬 **Current Research**: Bangla Speech Emotion Recognition (Multimodal Fusion) 
 - 🎯 **Research Interests**: NLP, Speech Processing, Computer Vision, Robotics
 - 🌱 **Learning**: Advanced Deep Learning architectures, Transformer models, Edge AI deployment
 - 👯 **Collaboration**: Open to AI/ML research, robotics projects, and open-source contributions
@@ -77,17 +77,6 @@ I'm a **Computer Science & Engineering** Graduate from Chittagong Independent Un
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisistanvirjoy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
----
-
-### 🏆 Key Projects
-
-#### 🎯 [Bangla Speech Emotion Recognition]
-Multimodal LODO benchmark with state-of-the-art fusion strategies for Bangla emotion detection
-
-#### 🌐 [Personal Portfolio](https://tanvirjoy.me)
-Next.js 14 portfolio with retro-pixel aesthetic and interactive animations
-
----
 
 ### 🔗 Connect with Me
 
