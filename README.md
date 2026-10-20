@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Tanvir+Joy;AI%2FML+Researcher;Robotics+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 CSE Graduate | 🤖 AI/ML Research | 💻 Junior Programmer @Digicon Technologies | 🔬 NLP & Computer Vision</h3>
+<h3 align="center">🎓 CSE Graduate | 🤖 AI/ML Research | 💻 React Developer @PEN Global | 🔬 NLP & Computer Vision</h3>
 
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat" />
